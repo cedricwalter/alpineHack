@@ -48,7 +48,7 @@ git push -u origin master
 File - Open - Select Folder /myProjectName
 
 add a new file package.json
-
+```
 {
   "name": "myProjectName",
   "version": "1.0.0",
@@ -95,7 +95,9 @@ add a new file package.json
   }
 }
 ```
+
 Edit file truffle-config.js
+
 ```
 /**
  * Truffle configuration
